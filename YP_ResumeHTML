@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Yenifer A. Prajapati</title>
+    <link href='https://fonts.googleapis.com/css?family=Cinzel+Decorative|Cardo' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+   <div id="container">
+       <div id="Text">
+       <h1>Yenifer A. Prajapati</h1>
+      
+       <h2>Diversity & Inclusion Innovator </h2>
+           <br>
+        <p> Currently looking to be part of an organization that works <br> towards  human rights. <br><br> Gender research is my background, <br>cultural exchange is my joy, <br>& curiosity is what motivates me!  
+         </p>
+           
+        <p>I believe innovation is achieved through diversity and inclusion!</p>
+           <br>
+        <ul id="sprites">
+  <li id="instagram"><a href="#" target="_blank"></a></li>
+  <li id="twitter"><a href="#" target="_blank"></a></li>
+  <li id="dribbble"><a href="http://dribbble.com"target="_blank"></a></li>
+</ul>
+        </ul>
+       </div>
+   </div> 
+</body>
+</html>
